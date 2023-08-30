@@ -22,6 +22,11 @@
     </ol>
 </span>
 
+Добавить удаленный репозиторий к проекту:
+```
+git remote add repo_name url_of_repo_in_web
+```
+
 ---
 
 
