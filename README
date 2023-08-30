@@ -29,7 +29,7 @@ git remote add repo_name url_of_repo_in_web
 ```
 
 ```C#
-while (n < 0)
+while (n <= 0)
 {
     n++;
 }
