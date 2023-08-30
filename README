@@ -23,7 +23,8 @@
 </span>
 
 Добавить удаленный репозиторий к проекту:
-```
+
+```bash
 git remote add repo_name url_of_repo_in_web
 ```
 
